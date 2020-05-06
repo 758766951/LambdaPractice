@@ -67,8 +67,8 @@ public class Main {
                 .flatMap(Person::getCar)
                 .flatMap(Car::getInsurance)
                 .map(Insurance::getName);
-        System.out.println(name); //???why NullPointerException
-        System.out.println("----------end使用2、map与flatMap ----------");
+        //System.out.println(name); //???why NullPointerException
+        //System.out.println("----------end使用2、map与flatMap ----------");
 
         /**
          * 3、其他方法
