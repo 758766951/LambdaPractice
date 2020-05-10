@@ -1,14 +1,15 @@
-### java8实战
-
+### 《java8实战》 & 《Head First设计模式》
 
 
 每一章的包中有一个Main.java文件，里面说明了本章节的主要内容，
 chapter1表示第一章，chapter4_5表示第四章和第五章。
-
+  
+添加包designPattern用于写设计模式代码实践
+  
 ------------
 ####第八周完成工作
->* 第11章CompletableFuture：组合式异步编程代码实战
-
+>* 1、第11章CompletableFuture：组合式异步编程代码实战
+>* 2、添加包designPattern用于写设计模式代码实践，stragey,observer分别为策略模式和观察者模式
 ------------
 ####第七周完成工作
 >* 1前10章代码实战
