@@ -7,6 +7,11 @@ chapter1表示第一章，chapter4_5表示第四章和第五章。
 添加包designPattern用于写设计模式代码实践
   
 ------------
+
+####第九周完成工作
+>* 1、第12章 新的日期和时间API实战
+>* 2、添加设计模式代码实践，装饰模式decorator,工厂模式factory,单例模式singletonInstance   
+------------
 ####第八周完成工作
 >* 1、第11章CompletableFuture：组合式异步编程代码实战
 >* 2、添加包designPattern用于写设计模式代码实践，stragey,observer分别为策略模式和观察者模式
