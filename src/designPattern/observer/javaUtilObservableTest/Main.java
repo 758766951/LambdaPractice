@@ -1,4 +1,4 @@
-package designPattern.observer.java_util_ObservableTest;
+package designPattern.observer.javaUtilObservableTest;
 
 
 import java.util.Observable;
