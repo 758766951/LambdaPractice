@@ -112,7 +112,7 @@ public class Main {
 ////        reduce接受两个参数：一个初始值，这里是0； 一个BinaryOperator<T>来将两个元素结合起来产生一个新值
 //        List<Integer> numbers = Arrays.asList(1, 2, 3);
 //        int sum1 = numbers.stream().reduce(0, (a, b) -> a + b);
-//        System.out.println(sum1);
+//        System.out.println(sum1);//6
 ////        无初始值
 ////        reduce还有一个重载的变体，它不接受初始值，但是会返回一个Optional对象：
 //        Optional<Integer> sum2 = numbers.stream().reduce((a, b) -> (a + b));
